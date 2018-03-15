@@ -1,7 +1,7 @@
 source https://www.nuget.org/api/v2/
 framework: >= net40
 nuget FAKE
-nuget FSharp.Core 4.0.0.1
+nuget FSharp.Core 4.3.4
 nuget FsCheck
 nuget Nuget.CommandLine
 nuget NUnit.Runners
